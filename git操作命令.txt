@@ -1,0 +1,9 @@
+1.克隆GitHub账户创建的库
+    git clone 创建库后的地址 （例：git clone https://github.com/songbaoli/gitTest.git）
+2.上传文件
+    添加要提交的文件
+    git add 文件名
+    提交本地版本库
+    git commit -m "注释内容"
+    提交到github版本库
+    git push origin master
